@@ -9,6 +9,7 @@ html p, body p {
 
 .two-columns-img-left {
   padding: 0;
+  display: grid;
 }
 .two-columns-img-left .left {
   padding: 0;
